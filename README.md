@@ -153,7 +153,7 @@ go run ./services/tasks/cmd/tasks
 
 ### Проверка (3-й терминал)
 
-Выполните запросы из пункта 3 или воспользуйтесь postman коллекцией
+Выполните запросы из пункта 3 или воспользуйтесь postman коллекцией https://github.com/Alex171228/pz3.2/blob/main/pz3_postman_collection.json
 
 ---
 
